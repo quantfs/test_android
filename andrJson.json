@@ -1,0 +1,51 @@
+{
+   {
+        "id": 1,
+        "code": "maslo",
+        "name": "Масло",
+        "created_at": "2024-01-22T11:37:17.000000Z",
+        "updated_at": "2024-01-22T11:37:17.000000Z"
+    },
+    {
+        "id": 2,
+        "code": "stator-asinxronnogo-dvigatelia",
+        "name": "Статор асинхронного двигателя",
+        "created_at": "2024-01-22T11:37:17.000000Z",
+        "updated_at": "2024-01-22T11:37:17.000000Z"
+    },
+    {
+        "id": 3,
+        "code": "rotor-dvigatelia",
+        "name": "Ротор двигателя",
+        "created_at": "2024-01-22T11:37:17.000000Z",
+        "updated_at": "2024-01-22T11:37:17.000000Z"
+    },
+    {
+        "id": 4,
+        "code": "val-dvigatelia-i-soedinitelnye-elementy",
+        "name": "Вал двигателя и соединительные элементы",
+        "created_at": "2024-01-22T11:37:17.000000Z",
+        "updated_at": "2024-01-22T11:37:17.000000Z"
+    },
+    {
+        "id": 5,
+        "code": "korpus",
+        "name": "Корпус",
+        "created_at": "2024-01-22T11:37:18.000000Z",
+        "updated_at": "2024-01-22T11:37:18.000000Z"
+    },
+    {
+        "id": 6,
+        "code": "uzel-tokovvoda",
+        "name": "Узел токоввода",
+        "created_at": "2024-01-22T11:37:18.000000Z",
+        "updated_at": "2024-01-22T11:37:18.000000Z"
+    },
+    {
+        "id": 7,
+        "code": "iznos-opornogo-podsipnika",
+        "name": "Износ опорного подшипника",
+        "created_at": "2024-01-22T11:37:18.000000Z",
+        "updated_at": "2024-01-22T11:37:18.000000Z"
+    }
+}
